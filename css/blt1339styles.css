@@ -1,0 +1,39 @@
+#blt1339-picture {
+    width:30%;
+    height:30%;
+}
+/*  Extra Small Devices */
+@media only screen and (max-width : 480px) {
+    #blt1339-picture {
+        width:10%;
+        height:10%;
+    }
+}
+
+
+@media only screen and (max-width: 750px) {
+    #blt1339-picture {
+        width:15%;
+        height:15%;
+    }
+}
+
+
+
+/* Small Devices */
+@media only screen and (max-width : 768px) {
+    #blt1339-picture {
+        width:20%;
+        height:20%;
+    }
+}
+
+/* Medium Devices */
+@media only screen and (max-width : 992px) {
+    #blt1339-picture {
+        width:25%;
+        height:25%;
+    }
+}
+
+
